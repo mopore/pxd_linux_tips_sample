@@ -16,7 +16,17 @@
 Aim of this project is to show that an invest in extending Linux terminal know how make things easier for a developer.
 
 ## Howto
+
+### Pre-Note 
+_ All mentioned programs are available for Linux (via distro package managers) and MacOS (via homebrew).
+- `ctop` is available via https://github.com/bcicen/ctop
+
+### Instructions
+
 Check out the project and follow the following instructions...
+```
+git clone https://github.com/mopore/pxd_linux_tips_sample.git
+```
 
 On the host system:
 
