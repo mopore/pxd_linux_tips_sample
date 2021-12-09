@@ -18,7 +18,7 @@ Aim of this project is to show that an invest in extending Linux terminal know h
 ## Howto
 
 ### Pre-Note 
-_ All mentioned programs are available for Linux (via distro package managers) and MacOS (via homebrew).
+- All mentioned programs are available for Linux (via distro package managers) and MacOS (via homebrew).
 - `ctop` is available via https://github.com/bcicen/ctop
 
 ### Instructions
